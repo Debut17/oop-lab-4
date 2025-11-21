@@ -38,7 +38,7 @@ oop_creature_code/
 2. Clone or download this repository:
 
 ```bash
-git clone <YOUR_REPO_URL>
+git clone https://github.com/Debut17/oop-lab-4
 cd oop_creature_code
 ```
 
